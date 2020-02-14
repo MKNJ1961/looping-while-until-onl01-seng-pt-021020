@@ -4,6 +4,7 @@ def using_while
   puts "Wingardium Lavosia"
   using_while += 1
 end
+end
  
   
   
